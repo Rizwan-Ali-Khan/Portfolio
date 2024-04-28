@@ -3,7 +3,7 @@
 
 [Brief Introduction]
 
-Seeking SOC Analyst Level 1 role. Dive into my cybersecurity journey—skilled in incident response, threat detection, and proactive defense. Ready to fortify your team's digital defenses with passion and precision.
+Seeking SOC Analyst Level 1 role. Dive into my cybersecurity journey skilled in incident response, threat detection, and proactive defense. Ready to fortify your team's digital defenses with passion and precision.
 
 ## Objective
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
