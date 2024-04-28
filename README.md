@@ -54,6 +54,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
+- Building a Virtual Security Home Lab
 - Detection Lab
 - SOC Automation Project
 - Cybersecurity home lab
