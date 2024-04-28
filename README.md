@@ -1,5 +1,5 @@
 # Hello, I'm Rizwan Ali Khan
-<a href="https://www.linkedin.com/in/rizwan-ali-khan-031aa2235"/><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/rizwan-ali-khan-031aa2235"/><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Seeking SOC Analyst Level 1 role. Dive into my cybersecurity journey—skilled in incident response, threat detection, and proactive defense. Ready to fortify your team's digital defenses with passion and precision.
 
